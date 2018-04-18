@@ -4,3 +4,7 @@
 
 2. Familiar
   - Searched for the Title Thor: Ragnarok and obtained the  "imdbID:tt3501632" to use in the i parameter
+
+# Wiki: useful for ...
+
+Q&A](https://github.com/xolisas/Smarties/wiki
