@@ -7,7 +7,9 @@
   
 3. Images available on repo.  https://github.com/xolisas/Fawn/tree/master/Images  
 
-4. You can download the following collection and import on postman to run https://github.com/xolisas/Fawn/blob/master/LisaTestsThorMovie.postman_collection.json
+4. Test case
+
+5. You can download the following collection and import on postman to run https://github.com/xolisas/Fawn/blob/master/LisaTestsThorMovie.postman_collection.json
 
 # Wiki: useful for ...
 
