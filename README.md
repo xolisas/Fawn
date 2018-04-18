@@ -7,4 +7,4 @@
 
 # Wiki: useful for ...
 
-Q&A](https://github.com/xolisas/Smarties/wiki
+https://github.com/xolisas/Smarties/wiki
