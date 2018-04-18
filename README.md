@@ -5,7 +5,9 @@
 2. Familiar
      - Searched for the Title Thor: Ragnarok and obtained the  "imdbID:tt3501632" to use in the i parameter
   
-2. Images available on repo.  https://github.com/xolisas/Fawn/tree/master/Images  
+3. Images available on repo.  https://github.com/xolisas/Fawn/tree/master/Images  
+
+4. 
 
 # Wiki: useful for ...
 
