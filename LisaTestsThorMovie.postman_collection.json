@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "5d59139b-c330-476e-bb47-03e30116ac18",
+		"name": "Lisa",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Lisa",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "e11fcaa9-80af-4d3d-8f85-8a502797bbe7",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"//Test #1",
+							"/*Successfull response of get request*/",
+							"tests[\"Status code is 200\"] = responseCode.code === 200;",
+							"",
+							"//Test #2",
+							"/*tests[“Response time is less than 200ms”] = responseTime < 200;*/",
+							"var time = pm.response.responseTime",
+							"",
+							"pm.test('Status code is 200 - Response time:' + time + ' ms', () => pm.response.to.have.status(200))",
+							"",
+							"",
+							"//Test #3",
+							"/*Negative testing for unsussefful get response when api key and i parameter are manipulated*/",
+							"tests[\"Status code is 400\"] = responseCode.code === 400;",
+							"",
+							"//Test #4",
+							"/*Testing for correct correct moview returned*/",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Title Matches\"] =  responseBody.has(\"Thor: Ragnarok\");",
+							"tests[\"Year Matches\"] = responseBody.has (\"2017\");",
+							"tests[\"ID Matches\"] = responseBody.has (\"tt3501632\");",
+							"tests[\"Type Matches\"] = responseBody.has (\"series\");",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "http://www.omdbapi.com/?apikey=7805815b&i=tt3501632",
+					"protocol": "http",
+					"host": [
+						"www",
+						"omdbapi",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "7805815b"
+						},
+						{
+							"key": "i",
+							"value": "tt3501632"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
