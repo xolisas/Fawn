@@ -25,7 +25,7 @@ You can download the following collection and import on postman to run and have 
 >- Getting the response [GET Repsonse](https://github.com/xolisas/Fawn/blob/master/Images/GETResponse.PNG)
 >- Writing the tests [Tests](https://github.com/xolisas/Fawn/blob/master/Images/PostmanTests.PNG)
 >- Getting test results from Postman Runner [Postman Runner](https://github.com/xolisas/Fawn/blob/master/Images/PostmanRunner.PNG)
->- Getting test results from Postman Runner [Results](https://github.com/xolisas/Fawn/blob/master/Images/TestResults.PNG)
+>- Test results from Postman [Results](https://github.com/xolisas/Fawn/blob/master/Images/TestResults.PNG)
 
 
 ## Wiki: String Theory Exercise
