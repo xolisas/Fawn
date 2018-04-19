@@ -1,5 +1,5 @@
 # **Fawn**
-The following _API Key_ has been generated from http://www.omdbapi.com/apikey.aspx
+The following _API Key_ has been generated from http://www.omdbapi.com/apikey.aspx, it's _FREE_ but you need to activate it via email.
 
 ### Familiarizing myself with the API
 
