@@ -23,5 +23,5 @@ To achieve this task I used postman and exported the JSON collection.
 
 You can download the following collection and import on postman to run and have a much more clearer reading experience https://github.com/xolisas/Fawn/blob/master/LisaTestsThorMovie.postman_collection.json
 
-# Wiki: String Theory Exercise
+# **Wiki: String Theory Exercise**
 https://github.com/xolisas/Fawn/wiki/QE-Analyst
