@@ -31,7 +31,7 @@
 							"tests[\"Status code is 400\"] = responseCode.code === 400;",
 							"",
 							"//Test #4",
-							"/*Testing for correct correct moview returned*/",
+							"/*Testing for correct moview returned and contents on body*/",
 							"var jsonData = JSON.parse(responseBody);",
 							"",
 							"tests[\"Title Matches\"] =  responseBody.has(\"Thor: Ragnarok\");",
