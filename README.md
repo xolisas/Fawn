@@ -1,6 +1,6 @@
 
 ># **Project Code Name: FAWN**
->That of a color - often confused with tan, beige or champagne. My role as a Software Quality Engineer is to >ensure that the "correct color" requirement (FAWN) is adhered to and clarify confusion.
+>That of a color - often confused with tan, beige or champagne. My role as a Software Quality Engineer is to ensure that the "correct color" requirement (FAWN) is adhered to and clarify confusion.
 
 ## Project Deliverable
 
